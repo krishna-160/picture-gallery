@@ -1,0 +1,62 @@
+.body{
+    /* background-color: black; */
+    background-image:linear-gradient(to top right, black, grey);
+    color:white;
+}
+
+.header-container{
+    /* background-color: rgb(75, 67, 67); */
+    background: linear-gradient(to right top,rgb(0, 255, 119),rgb(86, 165, 244));
+    height:150px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    /* position: fixed; */
+}
+.header-logo{
+    height: 5px;
+    width:5px;
+    margin-left: 65px;
+}
+.header-img{
+    height: 100px;
+    width:250px;
+}
+#anchor{
+    text-decoration: none;
+
+}
+.file{
+    color:black;
+}
+.name{
+    color: aliceblue;
+    font: 3em sans-sarif;
+}
+.name1{
+    color:red;
+    
+}
+.form-submit{
+    color:black;
+}
+.footer{
+    text-align: center;
+    padding-top: 20px;
+    height:150px;
+    width: 100%;
+    /* background-color: rgb(45, 41, 41); */
+    background: linear-gradient(to right top,rgb(0, 255, 119),rgb(86, 165, 244));
+}
+#more{
+    color: rgb(255, 0, 13);
+    background: linear-gradient(to left bottom,black,blue);
+}
+.name{
+    margin-top: 20px;
+    color:Red;
+    font-weight: bolder;
+}
